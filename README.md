@@ -83,3 +83,8 @@ Medyan Mutlak Hata (MedAE): 3.000 (Görüntülerin yarısındaki hata 3 veya dah
 Yanlılık (Bias): -3.90 (Model, gerçek ağaç sayısından daha az sayma eğilimindedir)
 
 Bu sonuçlar, modelin ağaç sayım görevinde makul bir başarı gösterdiğini, ancak sistematik olarak eksik sayım yapma eğiliminde olduğunu ortaya koymaktadır.
+
+Tüm dosyalara aşağıdaki Google Drive bağlantısından erişebilirsiniz:
+https://drive.google.com/drive/folders/1mjWtABqioGam6B-qceXHh1sK0VQXEowz?usp=sharing
+
+
